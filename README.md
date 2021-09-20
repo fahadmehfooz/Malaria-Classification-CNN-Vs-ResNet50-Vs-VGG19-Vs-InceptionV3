@@ -41,5 +41,4 @@ Best reults were obtained for VGG19.
 * CNN - Train accuracy: 50%,  Validation accuracy: 59%
 * InceptionV3 - Train accuracy:52% ,  Validation accuracy: 49%
 * VGG19 - Train accuracy: 92%,  Validation accuracy: 95%
-* ResNet50 - Train accuracy: 89%,  Validation accuracy: 94%
-* The Test accuracy is: 65.844064950943 % 
+* ResNet50 - Train accuracy: 89%,  Validation accuracy: 93%
