@@ -20,6 +20,7 @@
 * Preparing the image path and storing them in a dataframe along with their labels.
 * Visualizing the distribution of classes and the pictures of cats.
 * Augmenting the data using an image data generator.
+![alt text](https://github.com/fahadmehfooz/Malaria-Classification-CNN-Vs-ResNet50-Vs-VGG19-Vs-InceptionV3/blob/main/images/__results___21_1.png)
 
 ## Model Building 
 
