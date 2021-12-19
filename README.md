@@ -1,5 +1,15 @@
 # Malaria-Classification-CNN-Vs-ResNet50-Vs-VGG19-Vs-InceptionV3
 
+## PROBLEM STATEMENT
+The aim of the task is to save human life by detecting and deploying the image clls that contain mlaria or not. 
+Dataset contains images divided into categories:
+
+1) Infected
+2) Uninfected
+
+
+## Approach
+
 * Classifying different images of cells into the categories : Infected and Uninfected.
 * Trained the model on 27,558 images.
 * Took a test split of 20%.
