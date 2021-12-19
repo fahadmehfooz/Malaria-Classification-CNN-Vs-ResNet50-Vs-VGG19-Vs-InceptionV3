@@ -1,7 +1,7 @@
 # Malaria-Classification-CNN-Vs-ResNet50-Vs-VGG19-Vs-InceptionV3
 
 ## PROBLEM STATEMENT
-The aim of the task is to save human life by detecting and deploying the image clls that contain malaria or not. 
+The aim of the task is to save human life by detecting and deploying the image cells that contain malaria or not. 
 Dataset contains images divided into categories:
 
 1) Infected
