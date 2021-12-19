@@ -13,6 +13,7 @@ Dataset contains images divided into categories:
 * Classifying different images of cells into the categories : Infected and Uninfected.
 * Trained the model on 27,558 images.
 * Took a test split of 20%.
+* Performed data augmentation using techniques like: rotation, translation, zooming, cropping, and flipping.
 * Models trained with CNN, ResNet50, VGG19 and InceptionV3.
 
 ## Languages Used 
